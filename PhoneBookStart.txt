@@ -1,0 +1,14 @@
+Washington,George,9705557864
+Herman,James,9705551234
+Van Husen,Jorge,9705554532
+Marion,Marian,970655567
+Francis,Frances,9705557812
+Lincoln,Abraham,9705557863
+Polk,James,9706751234
+Hamilton,Alexander,970555
+Ford,Gerald,9706789000
+Clinton,William Jefferson,9703334567
+Eishenhower,Dwight,9705559282
+Cleveland,Grover,9702223456
+Roosevelt,Franklin,97055512345
+Gonzales,Ramirez,9702345678
